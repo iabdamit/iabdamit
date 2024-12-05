@@ -89,10 +89,15 @@
 <h2 align="center">🌟 Fun Animations</h2>
 
 <p align="center">
-  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/Assets/snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&duration=4000&pause=800&color=F7B801&background=000000&center=true&vCenter=true&width=500&lines=🚀+Code+is+Art!;🎨+Crafting+Elegant+Solutions;🌐+Building+the+Future+One+Line+at+a+Time!" alt="Custom Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitbhandari&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/Assets/grid.svg" alt="GitHub Activity Grid" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amitbhandari&theme=dark&background=000000" alt="Dynamic Streak Stats Animation" />
+</p>
+
 
