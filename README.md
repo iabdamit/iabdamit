@@ -95,4 +95,51 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amitbhandari&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
+<h2 align="center">🌟 Fun Animations & Widgets</h2>
+
+<p align="center">
+  <!-- Custom Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=F4A261&background=000000&center=true&vCenter=true&width=550&lines=🎯+Code+is+Life!;💡+Transforming+Ideas+into+Reality!;🚀+Building+One+Project+at+a+Time!" alt="Typing Animation" />
+</p>
+
+---
+
+### 🎨 **3D Card Effect**
+<p align="center">
+  <a href="https://github.com/amitbhandari" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitbhandari&theme=radical" alt="3D Profile Card" />
+  </a>
+</p>
+
+---
+
+### 📊 **Interactive Contribution Graph**
+<p align="center">
+  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/Assets/grid.svg" alt="Activity Graph Animation" />
+</p>
+
+---
+
+### 🏆 **Dynamic Trophy Showcase**
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=amitbhandari&theme=gruvbox">
+    <img src="https://github-profile-trophy.vercel.app/?username=amitbhandari&theme=gruvbox&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### ✨ **3D Widgets**
+<p align="center">
+  <a href="https://github.com/amitbhandari">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitbhandari&layout=compact&theme=radical&langs_count=6" alt="Top Languages 3D Widget" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/amitbhandari">
+    <img src="https://github-readme-stats.vercel.app/api?username=amitbhandari&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats Widget" />
+  </a>
+</p>
+
 
