@@ -74,13 +74,13 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/amitbhandari" target="_blank">
+  <a href="https:https://www.linkedin.com/in/amit-bhandari-76640b220/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:amitbhandari@example.com" target="_blank">
+  <a href="mailto:abdamitbhandari@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/amitbhandari" target="_blank">
+  <a href="https://github.com/iabdamit" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
