@@ -12,6 +12,7 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v3
 
+      # Generate Snake Animation using the correct inputs
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v2
         with:
