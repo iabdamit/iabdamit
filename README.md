@@ -9,10 +9,10 @@
 
 ### 🌟 **About Me**
 
-- 🎓 **BTech in Computer Science** | 23 years old, based in **Delhi, India**  
-- 💻 Exploring **Spring Boot, Microservices, Cloud Computing**, and Frontend Frameworks  
-- 🌱 Constantly learning **Advanced Algorithms**, and **Distributed Systems**  
-- 🚀 **Goal**: Building scalable, user-friendly web applications  
+- 🎓 **BTech in Computer Science** | 23 years old, based in **Delhi, India**
+- 💻 Exploring **Spring Boot, Microservices, Cloud Computing**, and Frontend Frameworks
+- 🌱 Constantly learning **Advanced Algorithms**, and **Distributed Systems**
+- 🚀 **Goal**: Building scalable, user-friendly web applications
 - 📧 Reach me at **abdamitbhandari@gmail.com**
 
 ---
@@ -30,10 +30,14 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 
-  <!-- Backend & Database -->
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <!-- Full Stack Development -->
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -57,6 +61,7 @@
 
 ---
 
+<!--
 <h2 align="center">🎯 Featured Projects</h2>
 
 <p align="center">
@@ -68,12 +73,12 @@
   </a>
 </p>
 
----
+--- -->
 
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/amitbhandari" target="_blank">
+  <a href="https://linkedin.com/in/abd29/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abdamitbhandari@gmail.com" target="_blank">
@@ -86,12 +91,11 @@
 
 ---
 
-<h2 align="center">🌟 Fun Animations</h2>
-
 <p align="center">
-<!--   <img src="https://github.com/iabdamit/iabdamit/blob/output/dist/snake.svg
-" alt="GitHub Snake Animation" /> -->
-
+  <img src="https://profile-counter.glitch.me/{YOUR_GITHUB_USERNAME}/count.svg" alt="Profile Views" />
+</p>
+---
+<p align="center">
 ![snake gif](https://github.com/iabdamit/iabdamit/blob/output/github-snake-dark.svg)
 </p>
 
