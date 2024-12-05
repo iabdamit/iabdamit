@@ -89,9 +89,9 @@
 <h2 align="center">🌟 Fun Animations</h2>
 
 <p align="center">
-<!--   <img src="https://github.com/iabdamit/iabdamit/blob/output/dist/snake.svg
-" alt="GitHub Snake Animation" /> -->
- https://github.com/iabdamit/iabdamit/blob/output/dist/snake.svg
+  <img src="https://github.com/iabdamit/iabdamit/blob/output/dist/snake.svg
+" alt="GitHub Snake Animation" />
+
 
 </p>
 
