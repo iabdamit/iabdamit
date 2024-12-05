@@ -91,13 +91,17 @@
 
 ---
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/iabdamit/count.svg" alt="Profile Views" />
-</p>
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iabdamit/iabdamit/main/output/dist/snake.svg" alt="GitHub Snake Animation" />
-</p>
+<!-- Snake -->
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
+
+<!-- Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amitbhandari&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
