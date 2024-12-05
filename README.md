@@ -90,7 +90,7 @@
 <p align="center">
 <!--   <img src="https://github.com/iabdamit/iabdamit/blob/output/dist/snake.svg
 " alt="GitHub Snake Animation" /> -->
-  ![Snake Animation](https://github.com/iabdamit/iabdamit/blob/output/dist/snake.svg)
+ https://github.com/iabdamit/iabdamit/blob/output/dist/snake.svg
 
 </p>
 
