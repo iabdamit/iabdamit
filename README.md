@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Bhandari</h1>
-<h3 align="center">Passionate Java Developer | Full-Stack Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Passionate Java Developer | Full-Stack Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=87CEEB&background=000000&center=true&vCenter=true&width=550&lines=🎯+Code+is+Life!;💡+Transforming+Ideas+into+Reality!;🚀+Building+One+Project+at+a+Time!" alt="Typing Animation" />
@@ -11,9 +11,9 @@
 
 - 🎓 **BTech in Computer Science** | 23 years old, based in **Delhi, India**  
 - 💻 Exploring **Spring Boot, Microservices, Cloud Computing**, and Frontend Frameworks  
-- 🌱 Constantly learning **Advanced Algorithms**, **UI Design**, and **Distributed Systems**  
+- 🌱 Constantly learning **Advanced Algorithms**, and **Distributed Systems**  
 - 🚀 **Goal**: Building scalable, user-friendly web applications  
-- 📧 Reach me at **amitbhandari@example.com**
+- 📧 Reach me at **abdamitbhandari@gmail.com**
 
 ---
 
@@ -75,7 +75,7 @@
   <a href="https://linkedin.com/in/amitbhandari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:amitbhandari@example.com" target="_blank">
+  <a href="mailto:abdamitbhandari@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/iabdamit" target="_blank">
