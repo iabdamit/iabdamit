@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Java Developer | Full-Stack Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=F4A261&background=000000&center=true&vCenter=true&width=550&lines=🎯+Code+is+Life!;💡+Transforming+Ideas+into+Reality!;🚀+Building+One+Project+at+a+Time!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=87CEEB&background=000000&center=true&vCenter=true&width=550&lines=🎯+Code+is+Life!;💡+Transforming+Ideas+into+Reality!;🚀+Building+One+Project+at+a+Time!" alt="Typing Animation" />
 </p>
 
 ---
@@ -89,7 +89,7 @@
 
 <p align="center">
   <!-- Custom Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=F4A261&background=000000&center=true&vCenter=true&width=550&lines=🎯+Code+is+Life!;💡+Transforming+Ideas+into+Reality!;🚀+Building+One+Project+at+a+Time!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=87CEEB&background=000000&center=true&vCenter=true&width=550&lines=🎯+Code+is+Life!;💡+Transforming+Ideas+into+Reality!;🚀+Building+One+Project+at+a+Time!" alt="Typing Animation" />
 </p>
 
 ---
@@ -105,7 +105,7 @@
 
 ### 📊 **Interactive Contribution Graph**
 <p align="center">
-  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/Assets/grid.svg" alt="Activity Graph Animation" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iabdamit&theme=radical" alt="Activity Graph" />
 </p>
 
 ---
@@ -117,20 +117,6 @@
   </a>
 </p>
 
----
-
-### ✨ **3D Widgets**
-<p align="center">
-  <a href="https://github.com/iabdamit">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabdamit&layout=compact&theme=radical&langs_count=6" alt="Top Languages 3D Widget" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/iabdamit">
-    <img src="https://github-readme-stats.vercel.app/api?username=iabdamit&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats Widget" />
-  </a>
-</p>
 
 
 
