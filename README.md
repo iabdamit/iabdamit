@@ -1,9 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Amit Bhandari</h1>
 <h3 align="center">Passionate Java Developer | Full-Stack Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;Full-Stack+Dev+in+the+Making!;Always+Learning+and+Innovating!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=F4A261&background=000000&center=true&vCenter=true&width=550&lines=🎯+Code+is+Life!;💡+Transforming+Ideas+into+Reality!;🚀+Building+One+Project+at+a+Time!" alt="Typing Animation" />
 </p>
 
 ---
@@ -47,12 +46,12 @@
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitbhandari&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitbhandari&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iabdamit&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iabdamit&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitbhandari&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabdamit&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -60,11 +59,11 @@
 <h2 align="center">🎯 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/amitbhandari/project1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitbhandari&repo=project1&theme=radical" alt="Project 1" />
+  <a href="https://github.com/iabdamit/project1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iabdamit&repo=project1&theme=radical" alt="Project 1" />
   </a>
-  <a href="https://github.com/amitbhandari/project2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitbhandari&repo=project2&theme=radical" alt="Project 2" />
+  <a href="https://github.com/iabdamit/project2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iabdamit&repo=project2&theme=radical" alt="Project 2" />
   </a>
 </p>
 
@@ -79,22 +78,13 @@
   <a href="mailto:amitbhandari@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/amitbhandari" target="_blank">
+  <a href="https://github.com/iabdamit" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">🌟 Fun Animations</h2>
-
-<p align="center">
-  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/Assets/snake.svg" alt="GitHub Snake Animation" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitbhandari&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
 <h2 align="center">🌟 Fun Animations & Widgets</h2>
 
 <p align="center">
@@ -106,8 +96,8 @@
 
 ### 🎨 **3D Card Effect**
 <p align="center">
-  <a href="https://github.com/amitbhandari" target="_blank">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitbhandari&theme=radical" alt="3D Profile Card" />
+  <a href="https://github.com/iabdamit" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iabdamit&theme=radical" alt="3D Profile Card" />
   </a>
 </p>
 
@@ -122,8 +112,8 @@
 
 ### 🏆 **Dynamic Trophy Showcase**
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=amitbhandari&theme=gruvbox">
-    <img src="https://github-profile-trophy.vercel.app/?username=amitbhandari&theme=gruvbox&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <a href="https://github-profile-trophy.vercel.app/?username=iabdamit&theme=gruvbox">
+    <img src="https://github-profile-trophy.vercel.app/?username=iabdamit&theme=gruvbox&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -131,15 +121,16 @@
 
 ### ✨ **3D Widgets**
 <p align="center">
-  <a href="https://github.com/amitbhandari">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitbhandari&layout=compact&theme=radical&langs_count=6" alt="Top Languages 3D Widget" />
+  <a href="https://github.com/iabdamit">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabdamit&layout=compact&theme=radical&langs_count=6" alt="Top Languages 3D Widget" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/amitbhandari">
-    <img src="https://github-readme-stats.vercel.app/api?username=amitbhandari&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats Widget" />
+  <a href="https://github.com/iabdamit">
+    <img src="https://github-readme-stats.vercel.app/api?username=iabdamit&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats Widget" />
   </a>
 </p>
+
 
 
