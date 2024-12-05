@@ -1,25 +1,24 @@
 
 <h1 align="center">Hi 👋, I'm Amit Bhandari</h1>
-<h3 align="center">A Passionate Java Developer from Delhi, India</h3>
+<h3 align="center">Passionate Java Developer | Full-Stack Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+in+Java.;Open+Source+Contributor.;Exploring+new+technologies." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;Full-Stack+Dev+in+the+Making!;Always+Learning+and+Innovating!" alt="Typing Animation" />
 </p>
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amitbhandari&label=Profile%20Views&color=0e75b6&style=flat" alt="amitbhandari" />
-</p>
+### 🌟 **About Me**
 
-- 🌱 I’m currently learning **Spring Boot, Microservices, and Cloud Technologies**  
-- 💬 Ask me about **Java, OOP, and backend development**  
-- 📫 How to reach me: **abdamitbhandari@gmail.com**  
-- ⚡ Fun fact: **I love debugging as much as coding!**
+- 🎓 **BTech in Computer Science** | 23 years old, based in **Delhi, India**  
+- 💻 Exploring **Spring Boot, Microservices, Cloud Computing**, and Frontend Frameworks  
+- 🌱 Constantly learning **Advanced Algorithms**, **UI Design**, and **Distributed Systems**  
+- 🚀 **Goal**: Building scalable, user-friendly web applications  
+- 📧 Reach me at **amitbhandari@example.com**
 
 ---
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
+<h2 align="center">⚡ Skills & Technologies</h2>
 
 <p align="center">
   <!-- Programming Languages -->
@@ -45,7 +44,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amitbhandari&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -58,13 +57,13 @@
 
 ---
 
-<h2 align="center">🌟 Featured Projects</h2>
+<h2 align="center">🎯 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/amitbhandari/project1">
+  <a href="https://github.com/amitbhandari/project1" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitbhandari&repo=project1&theme=radical" alt="Project 1" />
   </a>
-  <a href="https://github.com/amitbhandari/project2">
+  <a href="https://github.com/amitbhandari/project2" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitbhandari&repo=project2&theme=radical" alt="Project 2" />
   </a>
 </p>
@@ -74,13 +73,26 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abd29/" target="_blank">
+  <a href="https://linkedin.com/in/amitbhandari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:abdamitbhandari@gmail.com" target="_blank">
+  <a href="mailto:amitbhandari@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/iabdamit" target="_blank">
+  <a href="https://github.com/amitbhandari" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+---
+
+<h2 align="center">🌟 Fun Animations</h2>
+
+<p align="center">
+  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/Assets/snake.svg" alt="GitHub Snake Animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amitbhandari&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
