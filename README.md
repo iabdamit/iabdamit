@@ -92,11 +92,11 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{YOUR_GITHUB_USERNAME}/count.svg" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/iabdamit/count.svg" alt="Profile Views" />
 </p>
 ---
 <p align="center">
-![snake gif](https://github.com/iabdamit/iabdamit/blob/output/github-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/iabdamit/iabdamit/main/output/dist/snake.svg" alt="GitHub Snake Animation" />
 </p>
 
 <p align="center">
