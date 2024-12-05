@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Java Developer | Full-Stack Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=87CEEB&background=000000&center=true&vCenter=true&width=550&lines=🎯+Code+is+Life!;💡+Transforming+Ideas+into+Reality!;🚀+Building+One+Project+at+a+Time!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=1E2A47&background=000000&center=true&vCenter=true&width=550&lines=🎯+Code+is+Life!;💡+Transforming+Ideas+into+Reality!;🚀+Building+One+Project+at+a+Time!" alt="Typing Animation" />
 </p>
 
 ---
@@ -81,6 +81,52 @@
   <a href="https://github.com/iabdamit" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+---
+
+<h2 align="center">🌟 Fun Animations & Widgets</h2>
+
+<p align="center">
+  <!-- Custom Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=1E2A47&background=000000&center=true&vCenter=true&width=550&lines=🎯+Code+is+Life!;💡+Transforming+Ideas+into+Reality!;🚀+Building+One+Project+at+a+Time!" alt="Typing Animation" />
+</p>
+
+---
+
+<h2 align="center">🐍 Play the Snake Game!</h2>
+<p align="center">
+  <!-- Link to playable Snake Game -->
+  <a href="https://github.com/iabdamit/snake-game" target="_blank">
+    <img src="https://raw.githubusercontent.com/iabdamit/snake-game/master/snake_game_preview.gif" alt="Snake Game" width="300" />
+  </a>
+</p>
+
+---
+
+### 🎨 **3D Card Effect**
+<p align="center">
+  <a href="https://github.com/iabdamit" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iabdamit&theme=radical" alt="3D Profile Card" />
+  </a>
+</p>
+
+---
+
+### 📊 **Interactive Contribution Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iabdamit&theme=radical" alt="Activity Graph" />
+</p>
+
+---
+
+### 🏆 **Dynamic Trophy Showcase**
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=iabdamit&theme=gruvbox">
+    <img src="https://github-profile-trophy.vercel.app/?username=iabdamit&theme=gruvbox&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
 </p>
 
 ---
