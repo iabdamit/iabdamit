@@ -88,7 +88,8 @@
 <h2 align="center">🌟 Fun Animations</h2>
 
 <p align="center">
-  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/Assets/snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://github.com/iabdamit/iabdamit/blob/output/dist/snake.svg
+" alt="GitHub Snake Animation" />
 </p>
 
 <p align="center">
