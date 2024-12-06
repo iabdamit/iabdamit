@@ -50,7 +50,7 @@
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iabdamit&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iabdamit&theme=radical" alt="GitHub Streak" />
 
 </p>
@@ -94,7 +94,7 @@
 <!-- Snake -->
 <div align="center">
     
-  ![snake gif](https://github.com/iabdamit//blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/iabdamit/iabdamit/blob/output/github-snake-dark.svg)
 </div>
 
 <!-- Counter -->
@@ -104,5 +104,5 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitbhandari&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iabdamit&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
