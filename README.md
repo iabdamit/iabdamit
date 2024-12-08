@@ -50,6 +50,8 @@
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <p align="center">
+  ![GitHub Calendar](https://github-contributions.vercel.app/api/calendar?username=iabdamit&theme=dark)
+
   <img src="https://github-readme-stats.vercel.app/api?username=iabdamit&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iabdamit&theme=radical" alt="GitHub Streak" />
 </p>
