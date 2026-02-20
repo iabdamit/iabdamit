@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Java Developer | Full-Stack Enthusiast </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=87CEEB&background=000000&center=true&vCenter=true&width=550&lines=🎯+Code+is+Life!;💡+Transforming+Ideas+into+Reality!;🚀+Building+One+Project+at+a+Time!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=87CEEB&center=true&vCenter=true&width=550&lines=🎯+Code+is+Life!;💡+Transforming+Ideas+into+Reality!;🚀+Building+One+Project+at+a+Time!" alt="Typing Animation" />
 </p>
 
 ---
