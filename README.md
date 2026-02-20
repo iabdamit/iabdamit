@@ -55,7 +55,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabdamit&layout=compact&theme=radical" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabdamit&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=6&cache_seconds=86400"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -103,5 +106,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iabdamit&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=iabdamit&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4&v=1"
+    alt="GitHub Trophies"
+  />
 </p>
