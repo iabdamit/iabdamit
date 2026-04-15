@@ -9,7 +9,7 @@
 
 ### 🌟 **About Me**
 
-- 🎓 **BTech in Computer Science** | 23 years old, based in **Delhi, India**
+- 🎓 **BTech in Computer Science** | 24 years old, based in **Delhi, India**
 - 💻 Exploring **Spring Boot, Microservices, Cloud Computing**, and Frontend Frameworks
 - 🌱 Constantly learning **Advanced Algorithms**, and **Distributed Systems**
 - 🚀 **Goal**: Building scalable, user-friendly web applications
